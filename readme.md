@@ -8,7 +8,7 @@ O TDD incentiva escreve os teste primeiro e depois as funções
 
 ## O que não é TDD?
 
-1. Escrever a função
+1. Escrever a função, e depois 
 1. Escrever o teste que testa a função
 
 ## Comandos
