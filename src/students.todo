@@ -1,0 +1,7 @@
+# Regras de Negócio
+
+Regras:
+  ✔ Se uma nota for zero, a soma deve retorna zero @done(21-01-20 20:43)
+  ✔ Deve-se pode somar as notas dos alunos @done(21-01-20 20:43)
+  ✔ Se o aluno tem mais de cinco nostas a soma deve ser multiplicada por dois @done(21-01-20 20:43)
+
